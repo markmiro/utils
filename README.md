@@ -20,3 +20,6 @@ https://www.freecodecamp.org/news/how-to-publish-packages-to-npm-the-way-the-ind
 
 TypeScript support for Jest: ts-jest:
 https://kulshekhar.github.io/ts-jest/docs/getting-started/installation
+
+Add build script before publishing:
+https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
